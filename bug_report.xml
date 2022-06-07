@@ -1,1 +1,29 @@
-
+<?xml version="1.0"?>
+<BugReport>
+	<ID>123</ID>
+	<Title>Login page-login button leads to 404 error  after clicking on it</Title>
+	<Project>Online Cinema</Project>
+	<ProductBuild>4.2.1</ProductBuild>
+	<Severity>blocker</Severity>
+	<Priority>high</Priority>
+	<Status>assighed</Status>
+	<Reporter>Tatyana Nikitenko</Reporter>
+	<Assigned to>Vladislav Petrov</Assigned>
+	<Reproducibility>always</Reproducibility>
+	<Environment>
+		<OS>Windows 10 LTSC 64-bit</OS>
+		<Browser>Google Chrome 102.0.5005.62 Official Build 64-bit</Browser>
+	</Environment>
+	<Preconditions>
+		<link>http\\example.com</link>
+		<login>lina123</login>
+		<password>qwert123</password>
+	</Preconditions>
+	<Description>
+		<stepToReproduce>open the login page http://example.com &gt fill in the login form &gt click the login button </stepToReproduce>
+		<actualResult>The login button leads to 404 error after clicking on it</actualResult>
+		<expectesResult>The page is successfully uploaded after clicking on the login button</expectesResult>
+	</Description>
+	<Attachment></Attachment>
+</BugReport>
+	

@@ -2,24 +2,23 @@
 <CourseOutline>
 	<Skills>
 		<TheoryOfTesting>
-			<TheoryOfTesting>Types</TheoryOfTesting>
-			<TheoryOfTesting>Methods</TheoryOfTesting>
-			<TheoryOfTesting>Bug reports</TheoryOfTesting>
-			<TheoryOfTesting>Documentation</TheoryOfTesting>
+			<Theory>Types</Theory>
+			<Theory>Methods</Theory>
+			<Theory>Bug reports</Theory>
+			<Theory>Documentation</Theory>
 		</TheoryOfTesting>
 		<HardSkills>
-			<HardSkills>Dev tools</HardSkills>
-			<HardSkills>API</HardSkills>
-			<HardSkills>SQL</HardSkills>
-			<HardSkills>Terminal</HardSkills>
-			<HardSkills>Python</HardSkills>
-			<HardSkills>Git</HardSkills>
+			<Skill>Dev tools</Skill>
+			<Skill>API</Skill>
+			<Skill>SQL</Skill>
+			<Skill>Terminal</Skill>
+			<Skill>Python</Skill>
+			<Skill>Git</Skill>
 		</HardSkills>
 		<SoftSkills>
-			<SoftSkills>Attention to details</SoftSkills>
-			<SoftSkills>Communication skills</SoftSkills>
-			<SoftSkills>Problem-solving skills</SoftSkills>
+			<Skill>Attention to details</Skill>
+			<Skill>Communication skills</Skill>
+			<Skill>Problem-solving skills</Skill>
 		</SoftSkills>
 	</Skills>
 </CourseOutline>
-

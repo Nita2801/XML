@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Person>
+      <fullName>Tatyana Vladimirovna Nikitenko</fullName>
+      <age>29</age>
+      <numberOfPets>3</numberOfPets>
+      <salaryRequirement>above 20000</salaryRequirement>
+  </Person>

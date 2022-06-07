@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<CourseOutline>
+	<Skills>
+		<TheoryOfTesting>
+			<TheoryOfTesting>Types</TheoryOfTesting>
+			<TheoryOfTesting>Methods</TheoryOfTesting>
+			<TheoryOfTesting>Bug reports</TheoryOfTesting>
+			<TheoryOfTesting>Documentation</TheoryOfTesting>
+		</TheoryOfTesting>
+		<HardSkills>
+			<HardSkills>Dev tools</HardSkills>
+			<HardSkills>API</HardSkills>
+			<HardSkills>SQL</HardSkills>
+			<HardSkills>Terminal</HardSkills>
+			<HardSkills>Python</HardSkills>
+			<HardSkills>Git</HardSkills>
+		</HardSkills>
+		<SoftSkills>
+			<SoftSkills>Attention to details</SoftSkills>
+			<SoftSkills>Communication skills</SoftSkills>
+			<SoftSkills>Problem-solving skills</SoftSkills>
+		</SoftSkills>
+	</Skills>
+</CourseOutline>
+

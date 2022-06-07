@@ -15,7 +15,7 @@
 		<Browser>Google Chrome 102.0.5005.62 Official Build 64-bit</Browser>
 	</Environment>
 	<Preconditions>
-		<link>http\\example.com</link>
+		<link>http://example.com</link>
 		<login>lina123</login>
 		<password>qwert123</password>
 	</Preconditions>

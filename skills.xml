@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <CourseOutline>
 	<Skills>
-		<TheoryOfTesting>
+	       <TheoryOfTesting>
 			<Theory>Types</Theory>
 			<Theory>Methods</Theory>
 			<Theory>Bug reports</Theory>
